@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hallo
 
-<!--
-**CodeByTobias/CodeByTobias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Developer with 2+ years of experience, mainly working with
+custom WordPress plugins and Elementor addons.
 
-Here are some ideas to get you started:
+My focus is on building maintainable, real-world solutions using PHP,
+JavaScript and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+- PHP
+- JavaScript (ES6+)
+- HTML / CSS
+- WordPress (Plugins, REST API, Custom DB tables)
+- MySQL
+
+---
+
+## Featured Projects
+- 
+
+---
+
+## Currently Learning
+- Automated testing (PHPUnit)
+- Clean architecture & separation of concerns
+- Docker & basic DevOps concepts
+- CI with GitHub Actions
